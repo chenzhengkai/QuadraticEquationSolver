@@ -7,7 +7,7 @@ Used Spring Boot Framework implement a Quadratic Equation Solver service. This s
 2. HTTP POST END Point API: [QuadraticEquationSolverApplication.java](https://github.com/chenzhengkai/QuadraticEquationSolver/blob/main/src/main/java/com/td/zhengkai/QuadraticEquationSolver/QuadraticEquationSolverApplication.java)
 
 
-3. Use Maven command "mvn clean package" to build the whole application, and then run application as "java -jar target/quadratic-equation-solver-0.0.1-SNAPSHOT.jar",  the default port to listen the application is 8080.
+3. Use Maven command `mvn clean package` to build the whole application, and then run application as `java -jar target/quadratic-equation-solver-0.0.1-SNAPSHOT.jar`, the default port to listen the application is 8080.
 
 4. Use the following HTTP POST Call the service:
 
