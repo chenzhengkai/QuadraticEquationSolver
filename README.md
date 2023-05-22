@@ -12,6 +12,7 @@ Used Spring Boot Framework implement a Quadratic Equation Solver service. This s
 4. Use the following HTTP POST Call the service:
 
 curl -X POST -H "Content-Type: text/plain" -d "1,-3,2" http://localhost:8080/solve
-return:
+
+
 2.0,1.0
 
